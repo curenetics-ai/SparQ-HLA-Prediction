@@ -1,0 +1,60 @@
+{
+  "project": "SparQ-HLA-Prediction",
+  "source": "IEDB IQ-API",
+  "endpoint": "https://query-api.iedb.org/mhc_search",
+  "extraction_date": "2026-11-19T14:38:09.424305+00:00",
+  "filters": {
+    "structure_type": "Linear peptide",
+    "mhc_class": "I",
+    "loci": [
+      "A",
+      "B",
+      "C"
+    ],
+    "assay_names": "contains binding",
+    "resolutions": [
+      "2 chain",
+      "class"
+    ]
+  },
+  "page_size": 500,
+  "partitions": [
+    {
+      "partition": "HLA_A_2_chain",
+      "exact_count": 22503,
+      "downloaded": 22503,
+      "records_without_export": 0
+    },
+    {
+      "partition": "HLA_A_class",
+      "exact_count": 2652,
+      "downloaded": 2652,
+      "records_without_export": 0
+    },
+    {
+      "partition": "HLA_B_2_chain",
+      "exact_count": 10565,
+      "downloaded": 10565,
+      "records_without_export": 0
+    },
+    {
+      "partition": "HLA_B_class",
+      "exact_count": 851,
+      "downloaded": 851,
+      "records_without_export": 0
+    },
+    {
+      "partition": "HLA_C_2_chain",
+      "exact_count": 1804,
+      "downloaded": 1804,
+      "records_without_export": 0
+    },
+    {
+      "partition": "HLA_C_class",
+      "exact_count": 20,
+      "downloaded": 20,
+      "records_without_export": 0
+    }
+  ],
+  "total_records": 38395
+}

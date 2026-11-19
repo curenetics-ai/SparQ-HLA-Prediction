@@ -1,0 +1,422 @@
+[
+  {
+    "elution_id": 26,
+    "linear_sequence": "KLEDLERDL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive-Low",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 26,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive-Low",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 534,
+    "linear_sequence": "ATLGFGAYM",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|purified MHC/competitive/radioactivity",
+    "qualitative_measure": "Positive",
+    "reference_id": 367,
+    "mhc_export": [
+      {
+        "assay_id": 534,
+        "assay__units": null,
+        "assay__method": "purified MHC/competitive/radioactivity",
+        "reference__pmid": "15368525",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 791,
+    "linear_sequence": "GLLGTLVQL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 791,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 792,
+    "linear_sequence": "SLWGQPAEA",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 792,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 793,
+    "linear_sequence": "SLSEKTVLL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 793,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 794,
+    "linear_sequence": "SLFPGKLEV",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 794,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 796,
+    "linear_sequence": "GLIEKNIEL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 796,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 797,
+    "linear_sequence": "GLYPGLIWL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 797,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 798,
+    "linear_sequence": "ALSDHHIYL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 798,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 799,
+    "linear_sequence": "TLWVDPYEV",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 799,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 800,
+    "linear_sequence": "FLFDGSPTYVL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 390,
+    "mhc_export": [
+      {
+        "assay_id": 800,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "11782012",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2264,
+    "linear_sequence": "GASPAVSSL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 456,
+    "mhc_export": [
+      {
+        "assay_id": 2264,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15153496",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2401,
+    "linear_sequence": "FVFLRNFSL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive",
+    "reference_id": 458,
+    "mhc_export": [
+      {
+        "assay_id": 2401,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15305339",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive",
+        "assay__quantitative_measurement": 2.3
+      }
+    ]
+  },
+  {
+    "elution_id": 2438,
+    "linear_sequence": "DLERDLRKI",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2438,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2445,
+    "linear_sequence": "KIKKKIKKL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2445,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2446,
+    "linear_sequence": "HLSKEEEEEL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2446,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2447,
+    "linear_sequence": "SVPESPFSRT",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2447,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2448,
+    "linear_sequence": "SPFSRTGEGL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Positive-Low",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2448,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Positive-Low",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2449,
+    "linear_sequence": "SRTGEGLDV",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2449,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  },
+  {
+    "elution_id": 2450,
+    "linear_sequence": "ALENKRKQL",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_class": "I",
+    "assay_names": "qualitative binding|cellular MHC/direct/fluorescence",
+    "qualitative_measure": "Negative",
+    "reference_id": 274,
+    "mhc_export": [
+      {
+        "assay_id": 2450,
+        "assay__units": null,
+        "assay__method": "cellular MHC/direct/fluorescence",
+        "reference__pmid": "15448372",
+        "assay__response_measured": "qualitative binding",
+        "assay__measurement_inequality": null,
+        "assay__qualitative_measurement": "Negative",
+        "assay__quantitative_measurement": null
+      }
+    ]
+  }
+]
