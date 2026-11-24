@@ -1,0 +1,6 @@
+﻿dataset,partition,rows,cell_line_rows,direct_hla_rows,hla_a_b_c_rows,unique_direct_hla_pairs
+BA,c000_ba,41206,7760,33446,33446,33446
+BA,c001_ba,41965,7517,34448,34448,34448
+BA,c002_ba,41621,7724,33897,33897,33897
+BA,c003_ba,41215,7426,33789,33789,33789
+BA,c004_ba,42086,7559,34527,34527,34527

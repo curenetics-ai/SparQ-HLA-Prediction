@@ -1,0 +1,16 @@
+﻿modality,metric,value
+all,split_method,SHA-256 peptide-sequence grouping
+all,holdout_percent,20
+all,seed,42
+all,grouping_scope,Same peptide sequence receives the same partition across binding and elution
+binding,train_rows,25942
+binding,holdout_rows,6502
+binding,train_unique_peptides,11541
+binding,holdout_unique_peptides,2928
+binding,total_unique_peptides,14469
+elution,train_rows,1189439
+elution,holdout_rows,297040
+elution,train_unique_peptides,391240
+elution,holdout_unique_peptides,97618
+elution,total_unique_peptides,488858
+elution,holdout_unique_peptide_allele_pairs,146264

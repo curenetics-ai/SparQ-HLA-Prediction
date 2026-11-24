@@ -1,0 +1,11 @@
+﻿check,observed,expected,status
+source_peptides,16,16,PASS
+peptide_condition_pattern_rows,32,32,PASS
+all_sequences_length_17_to_30,16,16,PASS
+I_C_sequence_pairs_match,16,16,PASS
+possible_sites_per_proteasome_condition,368,368,PASS
+all_candidate_site_labels,736,736,PASS
+source_transcription_checks,0,0,PASS
+Table_S1_immunoproteasome_cut_count,140,See source reconciliation; table-derived count,REVIEW
+Table_S1_constitutive_cut_count,139,See source reconciliation; table-derived count,REVIEW
+Table_S1_shared_cut_count,94,See source reconciliation; table-derived count,REVIEW

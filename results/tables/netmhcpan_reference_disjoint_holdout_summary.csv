@@ -1,0 +1,27 @@
+﻿modality,metric,value
+binding_BA,excluded_rows,3203
+binding_BA,retained_rows,3299
+binding_BA,rows_without_peptide,0
+binding_BA,original_rows,6502
+binding_BA,original_unique_peptides,2928
+binding_BA,excluded_unique_peptides,730
+binding_BA,retained_unique_peptides,2198
+binding_BA,excluded_exact_overlap_rows,3012
+binding_BA,excluded_possible_multiallelic_rows,0
+binding_BA,excluded_sequence_only_rows,191
+binding_BA,residual_shared_sequences,0
+binding_BA,excluded_reference_sequences_in_audit,730
+binding_BA,exclusion_policy,"sequence-level; exact, possible multi-allelic, and sequence-only matches removed"
+elution_EL,excluded_rows,205225
+elution_EL,retained_rows,91815
+elution_EL,rows_without_peptide,0
+elution_EL,original_rows,297040
+elution_EL,original_unique_peptides,97618
+elution_EL,excluded_unique_peptides,43039
+elution_EL,retained_unique_peptides,54579
+elution_EL,excluded_exact_overlap_rows,166405
+elution_EL,excluded_possible_multiallelic_rows,30006
+elution_EL,excluded_sequence_only_rows,8814
+elution_EL,residual_shared_sequences,0
+elution_EL,excluded_reference_sequences_in_audit,43039
+elution_EL,exclusion_policy,"sequence-level; exact, possible multi-allelic, and sequence-only matches removed"

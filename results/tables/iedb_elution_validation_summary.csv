@@ -1,0 +1,4 @@
+﻿locus,expected_records,observed_records,expected_chunks,observed_chunks,missing_chunks,unexpected_chunks,validation_errors
+HLA-A,571749,571749,58,58,0,0,0
+HLA-B,771896,771896,78,78,0,0,0
+HLA-C,142834,142834,15,15,0,0,0
