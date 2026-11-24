@@ -1,0 +1,28 @@
+{
+  "source": "Calis et al. (2015), user-provided Supporting Table S1 PDF, page 1",
+  "doi": "10.1007/s00251-014-0815-0",
+  "source_table_title": "In vitro proteasome digestion cleavage patterns",
+  "source_peptide_count": 16,
+  "proteasome_conditions": {
+    "I": "immunoproteasome",
+    "C": "constitutive proteasome"
+  },
+  "pattern_records": 32,
+  "explicit_cleavage_annotations_from_bars": 279,
+  "candidate_site_label_records": 736,
+  "table_S1_cleavage_counts": {
+    "I": 140,
+    "C": 139,
+    "shared": 94
+  },
+  "possible_sites_per_condition": 368,
+  "sequence_length_range": "17-30 amino acids, as stated in the table caption",
+  "digestion_time_hours": 4,
+  "cleavage_position_convention": "1-based residue position immediately before the cleavage boundary",
+  "important_reconciliation_note": "The bar counts transcribed from Table S1 do not match the main article's aggregate counts; the article Results and Methods sections also swap the I/C aggregate totals. See calis_2015_cleavage_source_reconciliation.csv. No sites were invented to force agreement.",
+  "transcription_notes": [
+    "Each printed vertical bar is preserved as a cleavage boundary.",
+    "Spaces inside the tat1 immunoproteasome cell were treated as typesetting spaces where no vertical bar is printed.",
+    "The X symbol in nat10mod is preserved as shown in the source."
+  ]
+}

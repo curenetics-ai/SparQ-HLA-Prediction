@@ -1,0 +1,31 @@
+{
+  "project": "SparQ-HLA-Prediction",
+  "source": "IEDB",
+  "endpoint": "https://query-api.iedb.org/mhc_search",
+  "extraction_date": "2026-11-24T06:48:32.518832+00:00",
+  "filters": {
+    "structure_type": "Linear peptide",
+    "mhc_class": "I",
+    "loci": [
+      "A",
+      "B",
+      "C"
+    ],
+    "resolution": "2 chain",
+    "assay": "Mass spectrometry"
+  },
+  "page_size": 1000,
+  "chunk_size": 10000,
+  "download_state": {
+    "next_offset": {
+      "A": 571749,
+      "B": 771896,
+      "C": 142834
+    },
+    "completed": {
+      "A": true,
+      "B": true,
+      "C": true
+    }
+  }
+}

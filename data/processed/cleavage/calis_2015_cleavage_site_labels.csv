@@ -1,0 +1,737 @@
+﻿source,peptide_name,proteasome_code,proteasome_type,sequence,sequence_length,candidate_cleavage_after_residue_position_1based,left_residue,right_residue,cleavage_context,is_cleaved,site_label
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,1,C,F,C|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,2,F,H,F|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,3,H,C,H|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,4,C,Q,C|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,5,Q,V,Q|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,6,V,C,V|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,7,C,F,C|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,8,F,I,F|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,9,I,T,I|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,10,T,K,T|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,11,K,G,K|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,12,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,13,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,14,G,I,G|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,15,I,S,I|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,16,S,Y,S|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,17,Y,G,Y|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,18,G,R,G|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,19,R,K,R|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,20,K,K,K|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,21,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,I,immunoproteasome,CFHCQVCFITKGLGISYGRKKRR,23,22,R,R,R|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,1,C,F,C|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,2,F,H,F|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,3,H,C,H|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,4,C,Q,C|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,5,Q,V,Q|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,6,V,C,V|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,7,C,F,C|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,8,F,I,F|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,9,I,T,I|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,10,T,K,T|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,11,K,G,K|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,12,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,13,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,14,G,I,G|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,15,I,S,I|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,16,S,Y,S|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,17,Y,G,Y|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,18,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,19,R,K,R|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,20,K,K,K|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,21,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat2,C,constitutive_proteasome,CFHCQVCFITKGLGISYGRKKRR,23,22,R,R,R|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,1,R,L,R|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,2,L,I,L|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,3,I,Y,I|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,4,Y,A,Y|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,5,A,T,A|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,6,T,R,T|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,7,R,Q,R|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,8,Q,L,Q|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,9,L,Q,L|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,10,Q,R,Q|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,11,R,F,R|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,12,F,A,F|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,13,A,V,A|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,14,V,N,V|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,15,N,P,N|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,16,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,17,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,18,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,19,L,I,L|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,I,immunoproteasome,RLIYATRQLQRFAVNPGLLIT,21,20,I,T,I|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,1,R,L,R|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,2,L,I,L|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,3,I,Y,I|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,4,Y,A,Y|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,5,A,T,A|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,6,T,R,T|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,7,R,Q,R|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,8,Q,L,Q|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,9,L,Q,L|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,10,Q,R,Q|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,11,R,F,R|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,12,F,A,F|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,13,A,V,A|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,14,V,N,V|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,15,N,P,N|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,16,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,17,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,18,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,19,L,I,L|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq3,C,constitutive_proteasome,RLIYATRQLQRFAVNPGLLIT,21,20,I,T,I|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,1,M,E,M|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,2,E,P,E|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,3,P,V,P|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,4,V,D,V|D,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,5,D,P,D|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,6,P,R,P|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,7,R,L,R|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,8,L,E,L|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,9,E,P,E|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,10,P,W,P|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,11,W,K,W|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,12,K,H,K|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,13,H,P,H|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,14,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,15,G,S,G|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,16,S,Q,S|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,17,Q,P,Q|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,18,P,K,P|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,19,K,T,K|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,20,T,A,T|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,21,A,C,A|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,22,C,T,C|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,23,T,N,T|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,24,N,C,N|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,25,C,Y,C|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,26,Y,C,Y|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,I,immunoproteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,27,C,K,C|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,1,M,E,M|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,2,E,P,E|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,3,P,V,P|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,4,V,D,V|D,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,5,D,P,D|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,6,P,R,P|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,7,R,L,R|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,8,L,E,L|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,9,E,P,E|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,10,P,W,P|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,11,W,K,W|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,12,K,H,K|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,13,H,P,H|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,14,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,15,G,S,G|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,16,S,Q,S|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,17,Q,P,Q|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,18,P,K,P|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,19,K,T,K|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,20,T,A,T|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,21,A,C,A|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,22,C,T,C|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,23,T,N,T|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,24,N,C,N|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,25,C,Y,C|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,26,Y,C,Y|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,tat1,C,constitutive_proteasome,MEPVDPRLEPWKHPGSQPKTACTNCYCK,28,27,C,K,C|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,1,R,W,R|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,2,W,L,W|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,3,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,4,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,5,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,6,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,7,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,8,N,P,N|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,9,P,L,P|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,10,L,V,L|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,11,V,G,V|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,12,G,G,G|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,13,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,14,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,15,R,L,R|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,16,L,Y,L|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,17,Y,S,Y|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,18,S,P,S|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,19,P,T,P|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,20,T,S,T|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,21,S,I,S|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,22,I,L,I|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,I,immunoproteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,23,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,1,R,W,R|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,2,W,L,W|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,3,L,L,L|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,4,L,L,L|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,5,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,6,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,7,L,N,L|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,8,N,P,N|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,9,P,L,P|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,10,L,V,L|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,11,V,G,V|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,12,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,13,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,14,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,15,R,L,R|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,16,L,Y,L|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,17,Y,S,Y|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,18,S,P,S|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,19,P,T,P|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,20,T,S,T|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,21,S,I,S|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,22,I,L,I|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12mod,C,constitutive_proteasome,RWLLLGLNPLVGGGRLYSPTSILG,24,23,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,1,K,R,K|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,2,R,W,R|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,3,W,I,W|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,4,I,I,I|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,5,I,L,I|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,6,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,7,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,8,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,9,N,K,N|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,10,K,I,K|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,11,I,V,I|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,12,V,R,V|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,13,R,M,R|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,14,M,Y,M|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,15,Y,S,Y|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,16,S,P,S|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,17,P,V,P|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,18,V,S,V|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,19,S,I,S|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,20,I,L,I|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,I,immunoproteasome,KRWIILGLNKIVRMYSPVSILD,22,21,L,D,L|D,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,1,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,2,R,W,R|W,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,3,W,I,W|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,4,I,I,I|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,5,I,L,I|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,6,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,7,G,L,G|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,8,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,9,N,K,N|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,10,K,I,K|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,11,I,V,I|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,12,V,R,V|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,13,R,M,R|M,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,14,M,Y,M|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,15,Y,S,Y|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,16,S,P,S|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,17,P,V,P|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,18,V,S,V|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,19,S,I,S|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,20,I,L,I|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat12,C,constitutive_proteasome,KRWIILGLNKIVRMYSPVSILD,22,21,L,D,L|D,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,1,Y,V,Y|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,2,V,L,V|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,3,L,F,L|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,4,F,L,F|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,5,L,T,L|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,6,T,K,T|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,7,K,G,K|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,8,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,9,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,10,S,I,S|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,11,I,S,I|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,12,S,Y,S|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,13,Y,L,Y|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,14,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,15,G,K,G|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,I,immunoproteasome,YVLFLTKGLSISYLGKK,17,16,K,K,K|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,1,Y,V,Y|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,2,V,L,V|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,3,L,F,L|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,4,F,L,F|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,5,L,T,L|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,6,T,K,T|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,7,K,G,K|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,8,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,9,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,10,S,I,S|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,11,I,S,I|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,12,S,Y,S|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,13,Y,L,Y|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,14,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,15,G,K,G|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq2,C,constitutive_proteasome,YVLFLTKGLSISYLGKK,17,16,K,K,K|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,1,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,2,L,S,L|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,3,S,E,S|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,4,E,G,E|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,5,G,A,G|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,6,A,T,A|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,7,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,8,P,Q,P|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,9,Q,D,Q|D,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,10,D,L,D|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,11,L,N,L|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,12,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,13,T,M,T|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,14,M,L,M|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,15,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,16,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,17,T,V,T|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,18,V,G,V|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,19,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,20,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,21,H,Q,H|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,22,Q,A,Q|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,23,A,A,A|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,24,A,M,A|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,25,M,Q,M|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,26,Q,M,Q|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,I,immunoproteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,27,M,L,M|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,1,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,2,L,S,L|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,3,S,E,S|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,4,E,G,E|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,5,G,A,G|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,6,A,T,A|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,7,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,8,P,Q,P|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,9,Q,D,Q|D,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,10,D,L,D|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,11,L,N,L|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,12,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,13,T,M,T|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,14,M,L,M|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,15,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,16,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,17,T,V,T|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,18,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,19,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,20,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,21,H,Q,H|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,22,Q,A,Q|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,23,A,A,A|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,24,A,M,A|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,25,M,Q,M|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,26,Q,M,Q|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p24,C,constitutive_proteasome,ALSEGATPQDLNTMLNTVGGHQAAMQML,28,27,M,L,M|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,1,F,V,F|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,2,V,I,V|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,3,I,H,I|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,4,H,R,H|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,5,R,L,R|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,6,L,E,L|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,7,E,P,E|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,8,P,W,P|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,9,W,L,W|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,10,L,H,L|H,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,11,H,P,H|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,12,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,13,G,S,G|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,14,S,Q,S|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,15,Q,H,Q|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,16,H,I,H|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,17,I,T,I|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,18,T,A,T|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,19,A,S,A|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,20,S,T,S|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,I,immunoproteasome,FVIHRLEPWLHPGSQHITASTN,22,21,T,N,T|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,1,F,V,F|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,2,V,I,V|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,3,I,H,I|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,4,H,R,H|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,5,R,L,R|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,6,L,E,L|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,7,E,P,E|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,8,P,W,P|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,9,W,L,W|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,10,L,H,L|H,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,11,H,P,H|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,12,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,13,G,S,G|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,14,S,Q,S|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,15,Q,H,Q|H,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,16,H,I,H|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,17,I,T,I|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,18,T,A,T|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,19,A,S,A|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,20,S,T,S|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq1,C,constitutive_proteasome,FVIHRLEPWLHPGSQHITASTN,22,21,T,N,T|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,1,R,F,R|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,2,F,I,F|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,3,I,I,I|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,4,I,P,I|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,5,P,X,P|X,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,6,X,F,X|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,7,F,T,F|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,8,T,A,T|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,9,A,L,A|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,10,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,11,S,G,S|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,12,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,13,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,14,R,R,R|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,15,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,16,A,L,A|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,17,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,18,L,Y,L|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,19,Y,G,Y|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,20,G,A,G|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,21,A,T,A|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,22,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,23,P,Y,P|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,24,Y,A,Y|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,25,A,I,A|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,I,immunoproteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,26,I,G,I|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,1,R,F,R|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,2,F,I,F|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,3,I,I,I|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,4,I,P,I|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,5,P,X,P|X,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,6,X,F,X|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,7,F,T,F|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,8,T,A,T|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,9,A,L,A|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,10,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,11,S,G,S|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,12,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,13,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,14,R,R,R|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,15,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,16,A,L,A|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,17,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,18,L,Y,L|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,19,Y,G,Y|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,20,G,A,G|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,21,A,T,A|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,22,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,23,P,Y,P|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,24,Y,A,Y|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,25,A,I,A|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10mod,C,constitutive_proteasome,RFIIPXFTALSGGRRALLYGATPYAIG,27,26,I,G,I|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,1,Y,A,Y|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,2,A,I,A|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,3,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,4,P,Q,P|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,5,Q,A,Q|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,6,A,L,A|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,7,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,8,N,T,N|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,9,T,L,T|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,10,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,11,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,12,N,T,N|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,13,T,V,T|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,14,V,G,V|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,15,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,16,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,17,H,Q,H|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,18,Q,A,Q|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,I,immunoproteasome,YAIPQALNTLLNTVGGHQAA,20,19,A,A,A|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,1,Y,A,Y|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,2,A,I,A|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,3,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,4,P,Q,P|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,5,Q,A,Q|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,6,A,L,A|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,7,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,8,N,T,N|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,9,T,L,T|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,10,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,11,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,12,N,T,N|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,13,T,V,T|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,14,V,G,V|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,15,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,16,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,17,H,Q,H|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,18,Q,A,Q|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p seq4,C,constitutive_proteasome,YAIPQALNTLLNTVGGHQAA,20,19,A,A,A|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,1,Y,K,Y|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,2,K,L,K|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,3,L,K,L|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,4,K,H,K|H,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,5,H,I,H|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,6,I,V,I|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,7,V,W,V|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,8,W,A,W|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,9,A,S,A|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,10,S,R,S|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,11,R,E,R|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,12,E,L,E|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,13,L,E,L|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,14,E,R,E|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,15,R,F,R|F,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,16,F,A,F|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,17,A,V,A|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,18,V,N,V|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,19,N,P,N|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,20,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,21,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,22,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,23,L,E,L|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,24,E,V,E|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,25,V,T,V|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,26,T,S,T|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,27,S,E,S|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,28,E,G,E|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,I,immunoproteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,29,G,C,G|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,1,Y,K,Y|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,2,K,L,K|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,3,L,K,L|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,4,K,H,K|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,5,H,I,H|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,6,I,V,I|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,7,V,W,V|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,8,W,A,W|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,9,A,S,A|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,10,S,R,S|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,11,R,E,R|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,12,E,L,E|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,13,L,E,L|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,14,E,R,E|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,15,R,F,R|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,16,F,A,F|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,17,A,V,A|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,18,V,N,V|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,19,N,P,N|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,20,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,21,G,L,G|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,22,L,L,L|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,23,L,E,L|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,24,E,V,E|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,25,V,T,V|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,26,T,S,T|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,27,S,E,S|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,28,E,G,E|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,p17,C,constitutive_proteasome,YKLKHIVWASRELERFAVNPGLLEVTSEGC,30,29,G,C,G|C,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,1,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,2,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,3,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,4,G,P,G|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,5,P,A,P|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,6,A,A,A|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,7,A,T,A|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,8,T,L,T|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,9,L,Q,L|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,10,Q,T,Q|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,11,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,12,P,W,P|W,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,13,W,T,W|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,14,T,A,T|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,15,A,S,A|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,16,S,L,S|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,17,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,18,G,V,G|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,I,immunoproteasome,RALGPAATLQTPWTASLGVG,20,19,V,G,V|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,1,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,2,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,3,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,4,G,P,G|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,5,P,A,P|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,6,A,A,A|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,7,A,T,A|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,8,T,L,T|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,9,L,Q,L|Q,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,10,Q,T,Q|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,11,T,P,T|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,12,P,W,P|W,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,13,W,T,W|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,14,T,A,T|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,15,A,S,A|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,16,S,L,S|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,17,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,18,G,V,G|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13mod,C,constitutive_proteasome,RALGPAATLQTPWTASLGVG,20,19,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,1,K,A,K|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,2,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,3,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,4,G,P,G|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,5,P,A,P|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,6,A,A,A|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,7,A,T,A|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,8,T,L,T|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,9,L,E,L|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,10,E,E,E|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,11,E,M,E|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,12,M,M,M|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,13,M,T,M|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,14,T,A,T|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,15,A,C,A|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,16,C,Q,C|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,17,Q,G,Q|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,18,G,V,G|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,19,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,20,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,21,G,P,G|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,22,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,I,immunoproteasome,KALGPAATLEEMMTACQGVGGPGH,24,23,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,1,K,A,K|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,2,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,3,L,G,L|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,4,G,P,G|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,5,P,A,P|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,6,A,A,A|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,7,A,T,A|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,8,T,L,T|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,9,L,E,L|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,10,E,E,E|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,11,E,M,E|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,12,M,M,M|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,13,M,T,M|T,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,14,T,A,T|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,15,A,C,A|C,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,16,C,Q,C|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,17,Q,G,Q|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,18,G,V,G|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,19,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,20,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,21,G,P,G|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,22,P,G,P|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat13,C,constitutive_proteasome,KALGPAATLEEMMTACQGVGGPGH,24,23,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,1,R,A,R|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,2,A,I,A|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,3,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,4,P,I,P|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,5,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,6,P,A,P|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,7,A,G,A|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,8,G,T,G|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,9,T,L,T|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,10,L,L,L|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,11,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,12,S,G,S|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,13,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,14,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,15,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,16,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,17,A,I,A|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,18,I,Y,I|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,19,Y,K,Y|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,20,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,21,R,W,R|W,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,22,W,A,W|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,23,A,I,A|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,24,I,L,I|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,I,immunoproteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,25,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,1,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,2,A,I,A|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,3,I,P,I|P,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,4,P,I,P|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,5,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,6,P,A,P|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,7,A,G,A|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,8,G,T,G|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,9,T,L,T|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,10,L,L,L|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,11,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,12,S,G,S|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,13,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,14,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,15,G,R,G|R,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,16,R,A,R|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,17,A,I,A|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,18,I,Y,I|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,19,Y,K,Y|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,20,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,21,R,W,R|W,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,22,W,A,W|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,23,A,I,A|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,24,I,L,I|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11mod,C,constitutive_proteasome,RAIPIPAGTLLSGGGRAIYKRWAILG,26,25,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,1,N,N,N|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,2,N,P,N|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,3,P,P,P|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,4,P,I,P|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,5,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,6,P,V,P|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,7,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,8,G,E,G|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,9,E,I,E|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,10,I,Y,I|Y,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,11,Y,K,Y|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,12,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,13,R,W,R|W,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,14,W,I,W|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,15,I,I,I|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,16,I,L,I|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,17,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,18,G,L,G|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,19,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,20,N,K,N|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,21,K,I,K|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,I,immunoproteasome,NNPPIPVGEIYKRWIILGLNKIV,23,22,I,V,I|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,1,N,N,N|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,2,N,P,N|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,3,P,P,P|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,4,P,I,P|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,5,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,6,P,V,P|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,7,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,8,G,E,G|E,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,9,E,I,E|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,10,I,Y,I|Y,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,11,Y,K,Y|K,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,12,K,R,K|R,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,13,R,W,R|W,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,14,W,I,W|I,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,15,I,I,I|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,16,I,L,I|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,17,L,G,L|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,18,G,L,G|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,19,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,20,N,K,N|K,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,21,K,I,K|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat11,C,constitutive_proteasome,NNPPIPVGEIYKRWIILGLNKIV,23,22,I,V,I|V,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,1,P,E,P|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,2,E,V,E|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,3,V,I,V|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,4,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,5,P,M,P|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,6,M,F,M|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,7,F,S,F|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,8,S,A,S|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,9,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,10,L,S,L|S,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,11,S,E,S|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,12,E,G,E|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,13,G,A,G|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,14,A,T,A|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,15,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,16,P,Q,P|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,17,Q,D,Q|D,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,18,D,L,D|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,19,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,20,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,21,T,M,T|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,22,M,L,M|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,23,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,24,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,25,T,V,T|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,26,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,27,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,I,immunoproteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,28,G,H,G|H,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,1,P,E,P|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,2,E,V,E|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,3,V,I,V|I,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,4,I,P,I|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,5,P,M,P|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,6,M,F,M|F,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,7,F,S,F|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,8,S,A,S|A,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,9,A,L,A|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,10,L,S,L|S,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,11,S,E,S|E,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,12,E,G,E|G,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,13,G,A,G|A,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,14,A,T,A|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,15,T,P,T|P,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,16,P,Q,P|Q,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,17,Q,D,Q|D,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,18,D,L,D|L,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,19,L,N,L|N,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,20,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,21,T,M,T|M,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,22,M,L,M|L,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,23,L,N,L|N,1,cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,24,N,T,N|T,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,25,T,V,T|V,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,26,V,G,V|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,27,G,G,G|G,0,not_cleaved
+CALIS_2015_Supplementary_Table_S1,nat10,C,constitutive_proteasome,PEVIPMFSALSEGATPQDLNTMLNTVGGH,29,28,G,H,G|H,0,not_cleaved

@@ -1,0 +1,77 @@
+[
+  {
+    "elution_id": 660,
+    "linear_sequence": "DAHIYLNHI",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-B*51:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "Thymidylate synthase (UniProt:P04818)",
+    "parent_source_antigen_iri": "UNIPROT:P04818"
+  },
+  {
+    "elution_id": 661,
+    "linear_sequence": "DAYALNHTL",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-B*51:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "POU domain class 2-associating factor 1 (UniProt:Q16633)",
+    "parent_source_antigen_iri": "UNIPROT:Q16633"
+  },
+  {
+    "elution_id": 662,
+    "linear_sequence": "IPYHIVNIV",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-B*51:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "Serine--tRNA ligase, cytoplasmic (UniProt:P49591)",
+    "parent_source_antigen_iri": "UNIPROT:P49591"
+  },
+  {
+    "elution_id": 22634,
+    "linear_sequence": "APKRPPSAF",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-B*07:02",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|secreted MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1447,
+    "reference_dates": [
+      "2003"
+    ],
+    "parent_source_antigen_name": "High mobility group protein B1 (UniProt:P09429)",
+    "parent_source_antigen_iri": "UNIPROT:P09429"
+  },
+  {
+    "elution_id": 22642,
+    "linear_sequence": "TPQSNRPVM",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-B*07:02",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|secreted MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1447,
+    "reference_dates": [
+      "2003"
+    ],
+    "parent_source_antigen_name": "DNA-directed RNA polymerase II subunit RPB1 (UniProt:P24928)",
+    "parent_source_antigen_iri": "UNIPROT:P24928"
+  }
+]

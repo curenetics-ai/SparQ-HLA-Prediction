@@ -1,0 +1,77 @@
+[
+  {
+    "elution_id": 635,
+    "linear_sequence": "LLDVTAAV",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "Gamma-interferon-inducible lysosomal thiol reductase (UniProt:P13284)",
+    "parent_source_antigen_iri": "UNIPROT:P13284"
+  },
+  {
+    "elution_id": 638,
+    "linear_sequence": "LLSAEPVPA",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "B-cell antigen receptor complex-associated protein beta chain (UniProt:P40259)",
+    "parent_source_antigen_iri": "UNIPROT:P40259"
+  },
+  {
+    "elution_id": 642,
+    "linear_sequence": "IMLEALERV",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "Small nuclear ribonucleoprotein G (UniProt:P62308)",
+    "parent_source_antigen_iri": "UNIPROT:P62308"
+  },
+  {
+    "elution_id": 645,
+    "linear_sequence": "SIIGRLLEV",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit (UniProt:P62136)",
+    "parent_source_antigen_iri": "UNIPROT:P62136"
+  },
+  {
+    "elution_id": 647,
+    "linear_sequence": "ILDQKINEV",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-A*02:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 386,
+    "reference_dates": [
+      "2004"
+    ],
+    "parent_source_antigen_name": "Ornithine decarboxylase (UniProt:P11926)",
+    "parent_source_antigen_iri": "UNIPROT:P11926"
+  }
+]

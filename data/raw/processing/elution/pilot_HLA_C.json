@@ -1,0 +1,77 @@
+[
+  {
+    "elution_id": 1908576,
+    "linear_sequence": "AVFPHLTVV",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-C*06:02",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1022782,
+    "reference_dates": [
+      "2012"
+    ],
+    "parent_source_antigen_name": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit TMEM258 (UniProt:P61165)",
+    "parent_source_antigen_iri": "UNIPROT:P61165"
+  },
+  {
+    "elution_id": 1908757,
+    "linear_sequence": "FMAPPHQLEF",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-C*06:02",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1022782,
+    "reference_dates": [
+      "2012"
+    ],
+    "parent_source_antigen_name": "FIGNL1-interacting regulator of recombination and mitosis (UniProt:Q9NSG2)",
+    "parent_source_antigen_iri": "UNIPROT:Q9NSG2"
+  },
+  {
+    "elution_id": 1908760,
+    "linear_sequence": "FMQELVDGLY",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-C*16:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1022782,
+    "reference_dates": [
+      "2012"
+    ],
+    "parent_source_antigen_name": "Lengsin (UniProt:Q5TDP6)",
+    "parent_source_antigen_iri": "UNIPROT:Q5TDP6"
+  },
+  {
+    "elution_id": 1908823,
+    "linear_sequence": "FYGSIFFLY",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-C*16:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1022782,
+    "reference_dates": [
+      "2012"
+    ],
+    "parent_source_antigen_name": "Olfactory receptor 5K2 (UniProt:Q8NHB8)",
+    "parent_source_antigen_iri": "UNIPROT:Q8NHB8"
+  },
+  {
+    "elution_id": 1908826,
+    "linear_sequence": "FYVYEPLEY",
+    "mhc_class": "I",
+    "mhc_allele_name": "HLA-C*16:01",
+    "mhc_allele_resolution": "2 chain",
+    "assay_names": "ligand presentation|cellular MHC/mass spectrometry",
+    "qualitative_measure": "Positive",
+    "reference_id": 1022782,
+    "reference_dates": [
+      "2012"
+    ],
+    "parent_source_antigen_name": "Patched domain-containing protein 4 (UniProt:Q6ZW05)",
+    "parent_source_antigen_iri": "UNIPROT:Q6ZW05"
+  }
+]

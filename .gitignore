@@ -16,3 +16,12 @@ __pycache__/
 # Operating system
 .DS_Store
 Thumbs.db
+
+# Pilot file
+data/raw/binding/iedb_hla_a0201_pilot.json
+
+# NetMHCpan: retain extracted training data, exclude duplicate archive
+data/reference/netmhcpan41/NetMHCpan_train.tar.gz
+
+# CALIS: individual files are tracked; avoid duplicate bundle
+CALIS_Cleavage_Dataset_Package.zip
