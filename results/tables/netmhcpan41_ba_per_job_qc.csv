@@ -1,0 +1,9 @@
+﻿batch,job_id,pdf_file,pdf_pages,netmhcpan_version,prediction_mode,allele_job_sections,distinct_alleles,server_prediction_rows,target_pairs,target_pairs_matched,target_pairs_missing,target_pair_coverage_percent
+job_001_HLA_A_group_01,6B0822CD002593901E6E2411,job_001_HLA_A_group_01.pdf,107,4.1b,both EL and BA,20,20,10000,697,697,0,100.0
+job_002_HLA_A_group_01,6B0827780025A6E785E0D26B,job_002_HLA_A_group_01.pdf,106,4.1b,both EL and BA,20,20,10000,625,625,0,100.0
+job_003_HLA_A_group_01,6B0828E10025ACEA0CEF120E,job_003_HLA_A_group_01.pdf,106,4.1b,both EL and BA,20,20,10000,641,641,0,100.0
+job_004_HLA_A_group_01,6B082A790025B1D93A03F3B0,job_004_HLA_A_group_01.pdf,48,4.1b,both EL and BA,20,20,4380,267,267,0,100.0
+job_005_HLA_A_group_02,6B082B210025B3B94D16B66F,job_005_HLA_A_group_02.pdf,1,4.1b,both EL and BA,3,3,9,3,3,0,100.0
+job_006_HLA_B_group_01,6B082B640025B469EDDC132A,job_006_HLA_B_group_01.pdf,93,4.1b,both EL and BA,20,20,8720,692,692,0,100.0
+job_007_HLA_B_group_02,6B082C050025B6107D9894DC,job_007_HLA_B_group_02.pdf,13,4.1b,both EL and BA,19,19,817,53,53,0,100.0
+job_008_HLA_C_group_01,6B082C550025B725EE76E0E2,job_008_HLA_C_group_01.pdf,41,4.1b,both EL and BA,16,16,3360,307,307,0,100.0

@@ -21,6 +21,7 @@ The planned modelling sequence is: reference benchmark → in-house classical ba
 | Measured-binder counts per allele | Complete | `results/tables/measured_binder_counts_by_allele.csv` and `final_binder_counts_by_allele.csv` |
 | Cleavage and elution data assembled | Assembled; cleavage caveat recorded | `data/processed/cleavage/`, `data/processed/elution/` |
 | Held-out overlap assessment against NetMHCpan-4.1 BA and EL training files | Complete for these references | `results/tables/netmhcpan_reference_disjoint_holdout_summary.csv` |
+| NetMHCpan-4.1b BA reference benchmark (Wasiu) | Complete for eligible binding holdout pairs | `results/tables/netmhcpan41_ba_per_allele_metrics.csv`, `netmhcpan41_ba_per_locus_metrics.csv` |
 
 ### Key Week 1 dataset figures
 
@@ -82,10 +83,53 @@ The two workstreams below are designed to run **in parallel**. Each owner has a 
 
 | Owner | Independent workstream | Main tasks | Friday deliverable |
 |---|---|---|---|
-| **Wasiu** | HLA binding reference benchmark | Run NetMHCpan-4.1 in BA mode against the reference-disjoint binding holdout; harmonise allele naming; collect predictions; calculate performance by allele/allele stratum; document unsupported alleles and failed predictions. | Per-allele NetMHCpan BA performance table, aggregate summary, run configuration and prediction outputs. |
-| **Totan** | Antigen-processing reference benchmark | Finalise the processing reference choice (NetChop is currently preferred for a cleaner separation from the binding arm; NetCTLpan remains an alternative); define a biologically compatible input/target; review CALIS source limitations and assess reference-training overlap; run and summarise the agreed processing benchmark independently. | Processing-reference decision and rationale, input/target definition, overlap/compatibility note and stratified benchmark results where the available data support them. |
+| **Wasiu** | HLA binding reference benchmark | **Completed:** froze the hosted NetMHCpan-4.1b BA setup; prepared eight DTU submissions; extracted all eight PDFs; matched predictions to the exact reference-disjoint target pairs; documented per-allele/per-locus results, coverage, nearest-neighbour mapping and QC. | Completed outputs are documented in `docs/NetMHCpan41_BA_Benchmark_Results.md` and `results/tables/netmhcpan41_ba_*`. |
+| **Totan** | Antigen-processing reference benchmark | Independent workstream: finalise the processing reference choice (NetChop is currently preferred for a cleaner separation from the binding arm; NetCTLpan remains an alternative); define a biologically compatible input/target; review CALIS source limitations and assess reference-training overlap; run and summarise the agreed processing benchmark. | Processing-reference decision and rationale, input/target definition, overlap/compatibility note and stratified benchmark results where the available data support them. |
 
-**Coordination point:** agree the processing reference and evaluation target at the Week 2 checkpoint. This is a decision for the processing workstream; it does not block Wasiu's NetMHCpan BA benchmark.
+**Coordination point:** the binding reference benchmark is complete and does not block Totan’s processing-reference work. The processing reference and evaluation target still need to be finalised within that independent workstream.
+
+
+## Week 2 Results: NetMHCpan-4.1b Binding Reference Benchmark
+
+Wasiu's binding-reference benchmark has been completed using the DTU-hosted NetMHCpan 4.1b service. Eight server jobs were submitted in PEPTIDE format with both EL and BA outputs; BA-specific predictions were used for the binding evaluation.
+
+### Evaluation coverage
+
+| Item | Result |
+|---|---:|
+| Original reference-disjoint binding holdout | 3,299 peptide–allele pairs |
+| Peptide-length-ineligible rows | 14 |
+| Eligible target pairs scored | 3,285 |
+| Unique peptides in scored targets | 2,184 |
+| Distinct HLA alleles | 78 |
+| DTU jobs/PDFs processed | 8 |
+| Full server cross-product rows extracted | 47,286 |
+| Eligible target pairs matched | 3,285 / 3,285 (100%) |
+| Missing/failed eligible target predictions | 0 |
+
+Fourteen rows were excluded from this server run because their peptide lengths were below the server's accepted minimum. They remain in the original reference-disjoint holdout and are not classified as failed predictions.
+
+### Performance by locus
+
+The continuous predictor used for ROC-AUC and average precision is **negative `%Rank_BA`**, because lower BA percentile rank indicates stronger predicted binding.
+
+| Locus | Alleles | Target pairs | Positive | Negative | ROC-AUC | Average precision |
+|---|---:|---:|---:|---:|---:|---:|
+| HLA-A | 23 | 2,233 | 1,301 | 932 | 0.8564 | 0.8873 |
+| HLA-B | 39 | 745 | 378 | 367 | 0.8402 | 0.8492 |
+| HLA-C | 16 | 307 | 158 | 149 | 0.8097 | 0.8456 |
+| Pooled | 78 | 3,285 | 1,837 | 1,448 | 0.8456 | 0.8727 |
+
+The pooled result is a supporting summary; allele-level sample counts and metrics are retained in `results/tables/netmhcpan41_ba_per_allele_metrics.csv`. AUC is estimable for 58 alleles; 20 alleles contain only one experimental class, so AUC/AP cannot be estimated for those strata. Interpret small allele strata descriptively.
+
+### Interpretation and quality notes
+
+- All 78 requested alleles returned a prediction section. In 14 cases, DTU reported a nearest-neighbour allele different from the requested allele; 8 of these had non-zero distance to training data. These rows and distances are documented in `netmhcpan41_ba_allele_nearest_neighbor_mapping.csv`.
+- The PDF `BindLevel` label aligned with EL rank categories, not BA rank categories. BA classes must therefore be derived from `%Rank_BA`: strong ≤0.5%; weak >0.5% and ≤2.0%; non-binder >2.0%.
+- At the combined BA binder threshold of `%Rank_BA` ≤2.0%, pooled sensitivity was 0.668, specificity 0.850 and balanced accuracy 0.759.
+- This is the performance of the NetMHCpan 4.1b reference predictor on the reference-disjoint benchmark. It is not a result from the in-house classical or hybrid quantum models.
+
+Detailed predictions, raw PDFs, scripts, manifests and all per-allele/per-locus tables are stored in the benchmark package under `data/`, `scripts/`, `docs/` and `results/tables/`.
 
 ---
 

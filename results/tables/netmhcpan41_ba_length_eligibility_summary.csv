@@ -1,0 +1,2 @@
+﻿original_reference_disjoint_holdout_rows,scored_rows,length_ineligible_rows,scored_fraction_of_original_percent,note
+3299,3285,14,99.57562897847832,Rows below the DTU minimum peptide length were excluded before submission; the original holdout was not modified.

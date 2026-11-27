@@ -1,0 +1,90 @@
+[
+  {
+    "batch": "job_001_HLA_A_group_01",
+    "pdf_filename": "job_001_HLA_A_group_01.pdf",
+    "size_bytes": 829481,
+    "sha256": "7291809588808890d86b2bf1534a29a62bb699c5c7514d857be3a26f4bf39bd8",
+    "pages": 107,
+    "job_id": "6B0822CD002593901E6E2411",
+    "prediction_rows": 10000,
+    "target_pairs": 697,
+    "matched_target_pairs": 697
+  },
+  {
+    "batch": "job_002_HLA_A_group_01",
+    "pdf_filename": "job_002_HLA_A_group_01.pdf",
+    "size_bytes": 829710,
+    "sha256": "a8d0f3fa5a3ed3843e7f410d6e6ad0b95a8e0ece373875838285cd7af67eee64",
+    "pages": 106,
+    "job_id": "6B0827780025A6E785E0D26B",
+    "prediction_rows": 10000,
+    "target_pairs": 625,
+    "matched_target_pairs": 625
+  },
+  {
+    "batch": "job_003_HLA_A_group_01",
+    "pdf_filename": "job_003_HLA_A_group_01.pdf",
+    "size_bytes": 827461,
+    "sha256": "903f62e6416067f896e50bd2e8c5d3b26cb0c2326e7ae04d0833ad97e4de88e7",
+    "pages": 106,
+    "job_id": "6B0828E10025ACEA0CEF120E",
+    "prediction_rows": 10000,
+    "target_pairs": 641,
+    "matched_target_pairs": 641
+  },
+  {
+    "batch": "job_004_HLA_A_group_01",
+    "pdf_filename": "job_004_HLA_A_group_01.pdf",
+    "size_bytes": 427637,
+    "sha256": "62235ecd0858d43f4f1194e821d6ccbbffd86f86b79c6bcedc6592fb7a07e2d3",
+    "pages": 48,
+    "job_id": "6B082A790025B1D93A03F3B0",
+    "prediction_rows": 4380,
+    "target_pairs": 267,
+    "matched_target_pairs": 267
+  },
+  {
+    "batch": "job_005_HLA_A_group_02",
+    "pdf_filename": "job_005_HLA_A_group_02.pdf",
+    "size_bytes": 85327,
+    "sha256": "3b1af1e922703ff2898945626f28486dc9d1b0ef2cd8669ebe954b5cdc4fc190",
+    "pages": 1,
+    "job_id": "6B082B210025B3B94D16B66F",
+    "prediction_rows": 9,
+    "target_pairs": 3,
+    "matched_target_pairs": 3
+  },
+  {
+    "batch": "job_006_HLA_B_group_01",
+    "pdf_filename": "job_006_HLA_B_group_01.pdf",
+    "size_bytes": 738721,
+    "sha256": "787a015647275809a406a351156d08040e5bf0f6cb1e9fc6c255f90bafd176d3",
+    "pages": 93,
+    "job_id": "6B082B640025B469EDDC132A",
+    "prediction_rows": 8720,
+    "target_pairs": 692,
+    "matched_target_pairs": 692
+  },
+  {
+    "batch": "job_007_HLA_B_group_02",
+    "pdf_filename": "job_007_HLA_B_group_02.pdf",
+    "size_bytes": 163600,
+    "sha256": "c2e9459a8fe5f4fa2c5bb827d09db3f338191e110f4a000d50b544510ee7f033",
+    "pages": 13,
+    "job_id": "6B082C050025B6107D9894DC",
+    "prediction_rows": 817,
+    "target_pairs": 53,
+    "matched_target_pairs": 53
+  },
+  {
+    "batch": "job_008_HLA_C_group_01",
+    "pdf_filename": "job_008_HLA_C_group_01.pdf",
+    "size_bytes": 339003,
+    "sha256": "c4763643748eb9af64bcbb1f07896773eb9b40cb76b9d37a26427d978ce3c8aa",
+    "pages": 41,
+    "job_id": "6B082C550025B725EE76E0E2",
+    "prediction_rows": 3360,
+    "target_pairs": 307,
+    "matched_target_pairs": 307
+  }
+]

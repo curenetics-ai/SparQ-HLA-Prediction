@@ -1,0 +1,15 @@
+﻿check,observed,status
+PDF files processed,8,PASS
+NetMHCpan version,4.1b,PASS
+Server prediction rows parsed,47286,PASS
+Unique HLA-peptide server prediction pairs,47286,PASS
+Target peptide-allele pairs,3285,PASS
+Target prediction coverage (%),100.0,PASS
+Missing target predictions,0,PASS
+Distinct target alleles,78,PASS
+Alleles with nearest neighbour different from requested allele,14,INFO
+Alleles with non-zero training distance,8,INFO
+Per-allele AUC estimable (both classes present),58,INFO
+Per-allele AUC not estimable (single class),20,INFO
+Server BindLevel agrees with EL rank categories (%),100.0,INFO
+Server BindLevel agrees with BA rank categories (%),79.787,INFO

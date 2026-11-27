@@ -1,0 +1,50 @@
+{
+  "project": "SparQ-HLA-Prediction",
+  "predictor": "NetMHCpan 4.1b",
+  "service": "DTU Health Tech NetMHCpan 4.1 web server",
+  "input_type": "PEPTIDE",
+  "prediction_modes": [
+    "EL",
+    "BA"
+  ],
+  "primary_benchmark_mode": "BA",
+  "primary_continuous_score": "-%Rank_BA (lower reported rank means stronger predicted binding)",
+  "secondary_scores": [
+    "Score_BA",
+    "Aff(nM)"
+  ],
+  "server_reported_strong_rank_threshold_percent": 0.5,
+  "server_reported_weak_rank_threshold_percent": 2.0,
+  "ba_threshold_classification": {
+    "strong": "%Rank_BA <= 0.5",
+    "weak": "0.5 < %Rank_BA <= 2.0",
+    "non_binder": "%Rank_BA > 2.0"
+  },
+  "rank_filter_setting": "The batch preparation instructions specified -99 (retain all). The PDF header itself does not echo this UI setting.",
+  "original_reference_disjoint_holdout_rows": 3299,
+  "server_length_ineligible_rows": 14,
+  "eligible_target_rows_scored": 3285,
+  "unique_target_peptides": 2184,
+  "distinct_hla_alleles": 78,
+  "server_prediction_cross_product_rows": 47286,
+  "exact_target_pairs_matched": 3285,
+  "target_pair_prediction_coverage_percent": 100.0,
+  "failed_or_missing_target_predictions": 0,
+  "alleles_nearest_neighbor_differs_from_requested": 14,
+  "alleles_with_nonzero_distance_to_training_data": 8,
+  "per_allele_auc_estimable": 58,
+  "per_allele_auc_not_estimable_single_class": 20,
+  "server_bindlevel_note": "Across the 3,285 target rows, the server BindLevel label agrees with the EL rank thresholds, not the BA rank thresholds. For BA classification, derive strong/weak/non-binder labels from %Rank_BA explicitly.",
+  "model_files_note": "Predictions were obtained from DTU's hosted 4.1b service. The hosted model parameter files are not included or directly inspectable in the PDF outputs. Repository NetMHCpan_train files are reference training data, not the prediction executable/model parameter package.",
+  "generated_at_utc": "2026-11-27T06:38:55.577202+00:00",
+  "results": {
+    "target_prediction_table": "data/processed/binding/netmhcpan41_ba_target_pair_predictions.csv",
+    "all_server_predictions": "data/processed/reference_predictions/netmhcpan41_ba_el_all_server_pairs.csv.gz",
+    "per_allele_metrics": "results/tables/netmhcpan41_ba_per_allele_metrics.csv",
+    "per_locus_metrics": "results/tables/netmhcpan41_ba_per_locus_metrics.csv",
+    "overall_metrics": "results/tables/netmhcpan41_ba_overall_metrics.csv",
+    "allele_mapping": "results/tables/netmhcpan41_ba_allele_nearest_neighbor_mapping.csv",
+    "failed_predictions": "results/tables/netmhcpan41_ba_failed_predictions.csv",
+    "qc": "results/tables/netmhcpan41_ba_extraction_qc.csv"
+  }
+}

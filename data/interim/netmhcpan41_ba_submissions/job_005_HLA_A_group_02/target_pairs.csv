@@ -1,0 +1,4 @@
+﻿hla_allele,netmhcpan_allele,peptide,peptide_length,binary_label,source_csv_row
+HLA-A*11:02,HLA-A11:02,SSSGAYGGG,9,0,1765
+HLA-A*25:01,HLA-A25:01,QTISPLSTY,9,1,1995
+HLA-A*68:02,HLA-A68:02,EEGVSKQSNG,10,0,2241
