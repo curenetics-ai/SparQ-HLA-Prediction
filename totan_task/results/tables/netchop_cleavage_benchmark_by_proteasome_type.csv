@@ -1,0 +1,9 @@
+network,subset,proteasome_type,n_peptides,n_sites,n_cleaved,n_not_cleaved,prevalence,auc,tp,fp,tn,fn,sensitivity,specificity,ppv,npv,accuracy,f1,mcc,auc_ci95_low,auc_ci95_high,mcc_ci95_low,mcc_ci95_high,bootstrap_replicates,threshold
+20S,all_peptides,constitutive_proteasome,16,368,139,229,0.3777,0.6814,85,86,143,54,0.6115,0.6245,0.4971,0.7259,0.6196,0.5484,0.2294,0.6091,0.7488,0.1154,0.3389,2000,0.5000
+20S,all_peptides,immunoproteasome,16,368,140,228,0.3804,0.7259,97,74,154,43,0.6929,0.6754,0.5673,0.7817,0.6821,0.6238,0.3585,0.6418,0.7951,0.2345,0.4664,2000,0.5000
+20S,excluding_nonstandard_residue_peptides,constitutive_proteasome,15,342,126,216,0.3684,0.6635,74,82,134,52,0.5873,0.6204,0.4744,0.7204,0.6082,0.5248,0.2011,0.5924,0.7327,0.0879,0.3160,2000,0.5000
+20S,excluding_nonstandard_residue_peptides,immunoproteasome,15,342,127,215,0.3713,0.7163,86,70,145,41,0.6772,0.6744,0.5513,0.7796,0.6754,0.6078,0.3411,0.6259,0.7857,0.2059,0.4525,2000,0.5000
+Cterm,all_peptides,constitutive_proteasome,16,368,139,229,0.3777,0.6362,61,66,163,78,0.4388,0.7118,0.4803,0.6763,0.6087,0.4586,0.1536,0.5804,0.6956,0.0666,0.2387,2000,0.5000
+Cterm,all_peptides,immunoproteasome,16,368,140,228,0.3804,0.7201,75,52,176,65,0.5357,0.7719,0.5906,0.7303,0.6821,0.5618,0.3142,0.6613,0.7775,0.1995,0.4235,2000,0.5000
+Cterm,excluding_nonstandard_residue_peptides,constitutive_proteasome,15,342,126,216,0.3684,0.6307,54,63,153,72,0.4286,0.7083,0.4615,0.6800,0.6053,0.4444,0.1392,0.5708,0.6921,0.0535,0.2283,2000,0.5000
+Cterm,excluding_nonstandard_residue_peptides,immunoproteasome,15,342,127,215,0.3713,0.7133,67,50,165,60,0.5276,0.7674,0.5726,0.7333,0.6784,0.5492,0.3004,0.6543,0.7732,0.1822,0.4173,2000,0.5000

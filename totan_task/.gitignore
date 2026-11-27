@@ -1,0 +1,5 @@
+# NetChop is licensed software (NetMHC 3.0 terms + Non-Profit OSL 3.0) and this
+# repository is PUBLIC - redistributing the binaries would breach the licence.
+# Obtain IEDB_NetChop-3.0.tar.gz separately and place it in docker/netchop/.
+# See docs/week2_processing_reference_decision.md
+docker/netchop/IEDB_NetChop-*.tar.gz
