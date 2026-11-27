@@ -1,0 +1,17 @@
+peptide_name,netchop_id,sequence_length,n_internal_bonds,source_organism,source_proteins,has_nonstandard_residue
+nat10,CALIS01,29,28,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+nat10mod,CALIS02,27,26,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",1
+nat11,CALIS03,23,22,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+nat11mod,CALIS04,26,25,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+nat12,CALIS05,22,21,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+nat12mod,CALIS06,24,23,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+nat13,CALIS07,24,23,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+nat13mod,CALIS08,20,19,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+p seq1,CALIS09,22,21,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+p seq2,CALIS10,17,16,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+p seq3,CALIS11,21,20,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+p seq4,CALIS12,20,19,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+p17,CALIS13,30,29,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+p24,CALIS14,28,27,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+tat1,CALIS15,28,27,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
+tat2,CALIS16,23,22,Human immunodeficiency virus 1,"HIV-1 GAG (p17, p24); HIV-1 TAT",0
